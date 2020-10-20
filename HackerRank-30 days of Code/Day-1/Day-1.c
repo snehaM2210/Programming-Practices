@@ -13,7 +13,7 @@ Day 1 Data Types Solution Approach:
  another data type which is same int, double, and string for the first data type int we have to perform addition with user input data.
 
  And for double also we have to repeat the same process and for string first, we have to print the already initialize string
- that is ìHackerRank ì and after the ìHackerRankî user string will be shown for this Day 1: Data Types solution I am going to explain the program step by step.
+ that is ‚ÄúHackerRank ‚Äú and after the ‚ÄúHackerRank‚Äù user string will be shown for this Day 1: Data Types solution I am going to explain the program step by step.
 
 Data Types Hackerrank Problem Explanation:
   as we know that int i = 4; are already define so we have to take another integer j, 
@@ -30,24 +30,16 @@ Data Types Hackerrank Problem Explanation:
  So this is a problem for avoiding this type of problem we can fix the double value by using setprecision(value) 
  means how many digits you want after pointer and fraction number.
 
- Here you can see that we fixed value to one thatís we use setprecision(1).
+ Here you can see that we fixed value to one that‚Äôs we use setprecision(1).
 
     double d = 4.0;
     double e = 4.0;
     cout<<fixed<<setprecision(1)<<d<<endl;
  Now next step is for the string is very simple we can print the first string and then user input sting but we have one problem.
 
- We can not accept space user input string so for that we use getline(cin,t). if you donít know about getline() function read Below.
+ We can not accept space user input string so for that we use getline(cin,t). if you don‚Äôt know about getline() function read Below.
 
-Use of getline in C++
 
- getline is used to store multiple strings with included space and next-line. getline reads line by line and store the string in the variable and cin is used for storing anything in C++.
-
-Syntax of getline
-    getline(cin, input_string)
-    string s = " HackerRank ";
-    string t ; // user input.
-    cout<<s<<t;
 */
 
 #include<stdio.h>
