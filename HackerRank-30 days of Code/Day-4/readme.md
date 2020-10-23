@@ -39,6 +39,8 @@ Sample Input</br>
 10</br>
 16</br>
 18</br>
+</br> 
+
 Sample Output</br>
 
 Age is not valid, setting age to 0.</br>
