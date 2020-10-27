@@ -4,7 +4,7 @@ Today, we're learning and practicing an algorithmic concept called Recursion.</b
 
 Recursive Method for Calculating Factorial</br>
 factorial(N)={ 1  &nbsp;&nbsp;&nbsp;                       N<=1</br>
-&nbsp;&nbsp;&nbsp;&nbsp;               Nxfactorial(N-1)     &nbsp;&nbsp;&nbsp;   otherwise }</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nxfactorial(N-1)     &nbsp;&nbsp;&nbsp;   otherwise }</br>
 
 Task</br>
 Write a factorial function that takes a positive integer, N as a parameter and prints the result of N! (N factorial).</br>
