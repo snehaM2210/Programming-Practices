@@ -1,35 +1,35 @@
-Objective
-Today, we're working with binary numbers. 
-Task
-Given a base-10 integer, n, convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.
+Objective</br>
+Today, we're working with binary numbers. </br>
+Task</br>
+Given a base-10 integer, n, convert it to binary (base-2). Then find and print the base-10 integer denoting the maximum number of consecutive 1's in n's binary representation.</br>
 
-Input Format
+Input Format</br>
 
-A single integer, n.
+A single integer, n.</br>
 
-Constraints
-1<=n<=10^6
+Constraints</br>
+1<=n<=10^6</br>
 
-Output Format
+Output Format</br>
 
-Print a single base-10 integer denoting the maximum number of consecutive 1's in the binary representation of n.
+Print a single base-10 integer denoting the maximum number of consecutive 1's in the binary representation of n.</br>
 
-Sample Input 1
+Sample Input 1</br>
+5</br>
 
-5
-Sample Output 1
+Sample Output 1</br>
+1</br>
 
-1
-Sample Input 2
+Sample Input 2</br>
+13</br>
 
-13
-Sample Output 2
+Sample Output 2</br>
+2</br>
 
-2
-Explanation
+Explanation</br>
 
-Sample Case 1:
-The binary representation of 5 is 101, so the maximum number of consecutive 1's is 1.
+Sample Case 1:</br>
+The binary representation of 5 is 101, so the maximum number of consecutive 1's is 1.</br>
 
-Sample Case 2:
-The binary representation of 13 is 1101, so the maximum number of consecutive 1's is 2.
+Sample Case 2:</br>
+The binary representation of 13 is 1101, so the maximum number of consecutive 1's is 2.</br>
