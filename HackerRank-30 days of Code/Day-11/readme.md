@@ -10,6 +10,7 @@ Given a 6 x 6 2D Array, A:</br>
 0 0 0 0 0 0</br>
 0 0 0 0 0 0</br>
 0 0 0 0 0 0</br>
+
 We define an hourglass in A to be a subset of values with indices falling in this pattern in A's graphical representation:</br>
 
 a b c</br>
@@ -40,9 +41,11 @@ Sample Input</br>
 0 0 2 4 4 0</br>
 0 0 0 2 0 0</br>
 0 0 1 2 4 0</br>
+
 Sample Output</br>
 
 19</br>
+
 Explanation</br>
 
 A contains the following hourglasses:</br>
@@ -63,6 +66,7 @@ A contains the following hourglasses:</br>
 &nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</br>
 0 0 1&nbsp;&nbsp;&nbsp;0 1 2&nbsp;&nbsp;&nbsp;1 2 4&nbsp;&nbsp;&nbsp;2 4 0</br>
 </br>
+
 The hourglass with the maximum sum (19) is:</br>
 
 2 4 4</br>
