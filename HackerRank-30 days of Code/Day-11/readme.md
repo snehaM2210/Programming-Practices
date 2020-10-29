@@ -47,23 +47,24 @@ Explanation</br>
 
 A contains the following hourglasses:</br>
 
-1 1 1   1 1 0   1 0 0   0 0 0</br>
-  1       0       0       0</br>
-1 1 1   1 1 0   1 0 0   0 0 0</br>
+1 1 1&nbsp;&nbsp;&nbsp;1 1 0&nbsp;&nbsp;&nbsp;1 0 0&nbsp;&nbsp;&nbsp;0 0 0</br>
+&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</br>
+1 1 1&nbsp;&nbsp;&nbsp;1 1 0&nbsp;&nbsp;&nbsp;1 0 0&nbsp;&nbsp;&nbsp;0 0 0</br>
 </br>
-0 1 0   1 0 0   0 0 0   0 0 0</br>
-  1       1       0       0</br>
-0 0 2   0 2 4   2 4 4   4 4 0</br>
+0 1 0&nbsp;&nbsp;&nbsp;1 0 0&nbsp;&nbsp;&nbsp;0 0 0&nbsp;&nbsp;&nbsp;0 0 0</br>
+&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</br>
+0 0 2&nbsp;&nbsp;&nbsp;0 2 4&nbsp;&nbsp;&nbsp;2 4 4&nbsp;&nbsp;&nbsp;4 4 0</br>
 </br>
-1 1 1   1 1 0   1 0 0   0 0 0</br>
-  0       2       4       4</br>
-0 0 0   0 0 2   0 2 0   2 0 0</br>
+1 1 1&nbsp;&nbsp;&nbsp;1 1 0&nbsp;&nbsp;&nbsp;1 0 0&nbsp;&nbsp;&nbsp;0 0 0</br>
+&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;4</br>
+0 0 0&nbsp;&nbsp;&nbsp;0 0 2&nbsp;&nbsp;&nbsp;0 2 0&nbsp;&nbsp;&nbsp;2 0 0</br>
 </br>
-0 0 2   0 2 4   2 4 4   4 4 0</br>
-  0       0       2       0</br>
-0 0 1   0 1 2   1 2 4   2 4 0</br>
+0 0 2&nbsp;&nbsp;&nbsp;0 2 4&nbsp;&nbsp;&nbsp;2 4 4&nbsp;&nbsp;&nbsp;4 4 0</br>
+&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;0</br>
+0 0 1&nbsp;&nbsp;&nbsp;0 1 2&nbsp;&nbsp;&nbsp;1 2 4&nbsp;&nbsp;&nbsp;2 4 0</br>
+</br>
 The hourglass with the maximum sum (19) is:</br>
 
 2 4 4</br>
-  2</br>
+&nbsp;&nbsp;&nbsp;2</br>
 1 2 4</br>
