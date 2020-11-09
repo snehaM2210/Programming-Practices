@@ -1,6 +1,6 @@
 //To print a pattern of asterick as below
 /*
-Taking n=4,you can print the following pattern
+Taking n=5,you can print the following pattern
 
             1
           1 2 3
