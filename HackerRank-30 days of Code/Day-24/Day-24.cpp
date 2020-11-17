@@ -82,4 +82,4 @@ int main()
     head=mylist.removeDuplicates(head);
 
 	mylist.display(head);	
-}
+} 
