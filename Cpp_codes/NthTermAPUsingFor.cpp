@@ -1,3 +1,4 @@
+//Program to find nth term of an Arithmetic Progression
 #include<iostream>
 using namespace std;
 
