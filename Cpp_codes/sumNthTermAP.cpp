@@ -1,3 +1,4 @@
+//Program for sum of nth terms of Arithmetic Progression
 #include <iostream>
 
 using namespace std;
