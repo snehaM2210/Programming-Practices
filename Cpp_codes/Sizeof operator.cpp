@@ -1,8 +1,7 @@
 //The sizeof operator
 #include<iostream>
-#include<climits>//we include climits for integer types
-                 //similar information for floating point numbers
-                 //is contained in <cfloat>
+#include<climits>
+/*we include climits for integer types similar information for floating point numbers is contained in <cfloat> */
 
 using namespace std;
 
