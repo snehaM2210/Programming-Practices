@@ -1,10 +1,12 @@
 //sentinel controlled program
+//To calculate the avg of ages of people taken as input
 #include <iostream>
 using namespace std;
 
-int main() {
+int main() 
+{
 	int age,ageTotal=0,noOfPeople=0;
-	cout<<"Enter 1st age or -1 to quit"<<endl;
+	cout<<"Enter 1st age or -1 to quit:"<<endl;
 	cin>>age;
 	while(age!= -1){
 		ageTotal=ageTotal+age;
