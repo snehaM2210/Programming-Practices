@@ -1,4 +1,5 @@
-//Functions -Using fuctions print a pattern
+//Functions 
+//Using fuctions print a pattern
 //Basic fundamental of using functions
 
 #include<iostream>
