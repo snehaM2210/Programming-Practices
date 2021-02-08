@@ -4,7 +4,7 @@
 class Choco
 {
 	public:
-		Choco();
+		Choco(); //constructor
 		void printCrap();
 };
 
