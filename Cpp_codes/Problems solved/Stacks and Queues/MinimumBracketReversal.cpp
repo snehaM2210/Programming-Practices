@@ -28,13 +28,14 @@
 // 1
 
 #include <iostream>
+#include <stack>
 #include <string>
 using namespace std;
 
 int countBracketReversals(string input)
 {
     int n = input.length();
-    if (n % 2)
+    if (n % 2 != 0)
     {
         return -1;
     }
@@ -42,7 +43,23 @@ int countBracketReversals(string input)
     for (int i = 0; i < n; i++)
     {
         if (input[i] == '}' && !st.empty())
+        {
+            if (st.top() == '{')
+                st.pop();
+            else
+                st.push(input[i]);
+        }
+        else
+            st.push(input[i]);
     }
+    int reduced_len = st.size();
+    int size = 0;
+    while (!st.empty() && st.top() == '{')
+    {
+        st.pop();
+        size++;
+    }
+    return (reduced_len / 2 + size % 2);
 }
 
 int main()
